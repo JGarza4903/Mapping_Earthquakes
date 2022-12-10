@@ -21,7 +21,7 @@ L.polyline(line, {
 }).addTo(map);
 
 // Get data from cities.js (Pulling from separate java file)
-let cityData = cities;
+// let cityData = cities;
 
 // Loop through the aray of cities and create one marker per city
 // cityData.forEach(city => {
